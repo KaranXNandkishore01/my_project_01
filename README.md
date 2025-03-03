@@ -1,2 +1,3 @@
 # my_project_01
-This is  trail project.
+Managed by Karan Prajapati.
+This is a  trail project.
